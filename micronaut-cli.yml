@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: br.com.zup
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, grpc, kotest, kotlin, kotlin-application, logback, readme, shade, yaml]
